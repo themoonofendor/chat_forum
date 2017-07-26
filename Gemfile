@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-ruby '2.3.4'
+ruby '2.3.1'
 
+gem 'heroku'
 gem "sinatra"
-gem "puma"
 gem "thin"
